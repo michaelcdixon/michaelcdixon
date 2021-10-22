@@ -16,6 +16,7 @@ _M.E.R.N Stack_
 **Contact Me At**
 
 [Linkedin](https://www.linkedin.com/in/michael-dixon-404/)
+[Email](michaelmail7@gmail.com)
 
 <!--
 **michaelcdixon/michaelcdixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
