@@ -2,7 +2,7 @@
 
 - :ocean: I'm a Full Stack Web Developer (with a keen interest in Front End) and have graduated from Ironhack
 - :thailand: I'm currently based in Bangkok (location flexible) :netherlands: :thailand: :eu:
-- I'm currently improving my JavaScript and ReactJS skills :rocket:
+- :keyboard: I'm currently improving my JavaScript and ReactJS skills :rocket:
 - :computer: Check out the source code of some projects I made in my respositories
 
 **Languages and Tools**
