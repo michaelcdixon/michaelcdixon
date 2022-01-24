@@ -1,7 +1,7 @@
 ### Hey there, I'm Michael Dixon and this is my GitHub Profile :smiley:
 
 - :ocean: I'm a Full Stack Web Developer (with a keen interest in Front End) and have graduated from Ironhack
-- :portugal: I'm currently based in Lisbon (location flexible) :netherlands: :thailand:
+- :portugal: I'm currently based in Bangkok (location flexible) :netherlands: :thailand: :eu:
 - I'm currently improving my JavaScript and ReactJS skills :rocket:
 - :computer: Check out some of my projects in my repos!
 
