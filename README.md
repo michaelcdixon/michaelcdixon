@@ -21,6 +21,7 @@ _M.E.R.N Stack_
 **Check out these sites I help built**
 
 https://www.exeterentrepreneurs.co.uk/
+
 https://www.excode.co.uk/
 <!--
 **michaelcdixon/michaelcdixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
