@@ -18,7 +18,7 @@ _M.E.R.N Stack_
 [Linkedin](https://www.linkedin.com/in/michael-dixon-404/)
 [Email](michaelmail7@gmail.com)
 
-**Take a look at some websites I help build!**
+**Take a look at some websites I helped develop!**
 
 https://www.exeterentrepreneurs.co.uk/
 
